@@ -1,0 +1,2 @@
+## F# and FParsec Crash Course
+This repository consists in an F# FParsec based DSL for querying data as described in [this](https://www.youtube.com/watch?v=34C_7halqGw&t=1364s&ab_channel=JetBrainsTV) F# Crash Course from Jetbrains.
